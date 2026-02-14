@@ -4,8 +4,8 @@ import 'product.dart';
 import 'product_info_screen.dart';
 import 'cart_screen.dart';
 import 'profile.dart';
-import 'summary_page.dart';
-import 'order_confirmation_screen.dart';
+// import 'summary_page.dart';
+// import 'order_confirmation_screen.dart';
 import 'about_page.dart';
 
 void main() {

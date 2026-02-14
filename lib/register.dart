@@ -125,11 +125,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 onPressed: _register,
                 child: Text('Register'),
               ),
-              SizedBox(height: 16),
-              Text(
-                'Users registered: ${registeredUsers.length}',
-                style: TextStyle(fontSize: 16),
-              ),
             ],
           ),
         ),
